@@ -65,6 +65,6 @@ Este análisis revela cómo factores económicos, demográficos y climáticos in
 
 Si tienes alguna pregunta o deseas más información sobre el proyecto, no dudes en ponerte en contacto:
 
-Autor: Luna Outerelo
-Correo: lunaouterelo9@gmail.com
-LinkedIn: https://www.linkedin.com/in/luna-outerelo-4414a0192/
+- Autor: Luna Outerelo
+- Correo: lunaouterelo9@gmail.com
+- LinkedIn: https://www.linkedin.com/in/luna-outerelo-4414a0192/
